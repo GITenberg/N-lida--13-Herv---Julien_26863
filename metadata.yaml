@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Marie_d%27Agoult
     - http://en.wikipedia.org/wiki/Marie_d%27Agoult
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26863#N-lida--13-Herv---Julien
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2008-10-10'
 gutenberg_type: Text
